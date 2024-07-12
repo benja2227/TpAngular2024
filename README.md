@@ -7,9 +7,9 @@ Este proyecto es una aplicación web que permite a los usuarios explorar una var
  **Lista de Zapatillas:** Visualiza una lista completa de zapatillas disponibles con detalles como nombre, imagen, precio y descripción.
  **Carrito de Compras:** Permite agregar múltiples zapatillas al carrito y ver la lista de todas las seleccionadas.
 
-##Datos del estudiante:
+## Datos del estudiante:
 
-**Nombre y Apelldo:**Benjamín Villar Gonzalez
+**Nombre y ApellIdo:**Benjamín Villar Gonzalez
 **DNI:**43909162
 **Email:**benya_vg@hotmail.com
 **Sede:** TANDIL 
