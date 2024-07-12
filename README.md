@@ -9,7 +9,7 @@ Este proyecto es una aplicación web que permite a los usuarios explorar una var
 
 ## Datos del estudiante:
 
-**Nombre y ApellIdo:**Benjamín Villar Gonzalez
-**DNI:**43909162
-**Email:**benya_vg@hotmail.com
+**Nombre y ApellIdo:** Benjamín Villar Gonzalez
+**DNI:** 43909162
+**Email:** benya_vg@hotmail.com
 **Sede:** TANDIL 
